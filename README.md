@@ -2,7 +2,8 @@
 
 A marketing analytics project analyzing customer acquisition efficiency across four ad channels (Google Ads, Meta Ads, TikTok Ads, Email) to identify budget misallocation and recommend data-driven reallocation strategy.
 
-![Dashboard Preview](dashboard_screenshot.png)
+<img width="1277" height="730" alt="image" src="https://github.com/user-attachments/assets/8948dd64-8c40-4fd1-a022-e068dcf3bd32" />
+
 
 ## Business Problem
 
